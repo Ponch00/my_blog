@@ -24,7 +24,6 @@ const Footer = () => {
           </p>
         </footer>
       </>
-
     );
 }
 
